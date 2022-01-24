@@ -1,0 +1,20 @@
+Region,Time period,CladeA ,CladeB ,CladeC ,CladeD ,CladeE ,CladeF ,CladeG ,CladeH ,CladeI,Sum
+All Americas,2015,21,7,0,0,7,2,32,1,0,70
+All Americas,Jan-Apr,47,6,13,5,21,3,18,10,1,126
+All Americas,May-Aug,7,5,22,20,79,1,3,31,20,190
+All Americas,Sep-Dec,5,1,9,8,16,0,2,12,11,64
+All Americas,2017+,0,1,5,0,11,0,0,1,0,18
+,,,,,,,,,,,
+,Time period,CladeA ,CladeB ,CladeC ,CladeD ,CladeE ,CladeF,CladeG ,CladeH ,CladeI  ,  sum
+North America,2015,1,0,0,0,7,0,6,1,0,15
+North America,Jan-Apr,1,0,12,4,19,0,5,10,1,52
+North America,May-Aug,4,1,22,20,79,0,1,31,20,178
+North America,Sep-Dec,4,0,7,8,16,0,1,10,11,57
+North America,2017+,0,0,5,0,11,0,0,1,0,17
+,,,,,,,,,,,
+,Time period,CladeA ,CladeB ,CladeC ,CladeD ,CladeE ,CladeF ,CladeG ,CladeH  ,CladeI, sum
+South America,2015,20,7,0,0,0,2,26,0,0,55
+South America,Jan-Apr,46,6,1,1,0,3,13,0,0,70
+South America,May-Aug,3,4,0,0,0,1,2,0,0,10
+South America,Sep-Dec,1,1,2,0,0,0,1,2,0,7
+South America,2017+,0,1,0,0,0,0,0,0,0,1
